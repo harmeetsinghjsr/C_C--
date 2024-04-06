@@ -12,7 +12,7 @@ int main()
     for(i=0;i<3;i++){
         printf("\n");
         for(j=0;j<3;j++){
-            printf("\nEnter the value of a[%d][%d]: ",i,j);
+            printf("\nEnter the value of b[%d][%d]: ",i,j);
             scanf("%d",&b[i][j]);
         }
     }
