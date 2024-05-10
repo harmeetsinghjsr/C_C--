@@ -13,7 +13,8 @@ int main(){
     for(i=0;i<n;i++){
     if (arr[i]==x){
         printf("yes its present");
-    }}
+    }
+    }
 
     return 0;
 }
